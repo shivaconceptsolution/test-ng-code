@@ -1,0 +1,17 @@
+<suite name="Suite">
+    <test name="Practice Grouping">
+      <groups>
+ <!--    <define name="abcd">
+       <include name="admin"/>
+       <include name="user"/>
+   </define>-->  
+       <run>
+          
+           <include name="user" />
+       </run>
+      </groups>
+      <classes>
+        <class name="com.scs.basicexample.GroupExample" />
+      </classes>
+    </test>
+</suite>

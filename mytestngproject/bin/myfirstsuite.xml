@@ -1,0 +1,14 @@
+
+<suite name = "Suite1">
+<test name = "exampletest1">
+      <classes>
+         <class name = "com.scs.basicexample.Test1" />
+      </classes>
+   </test>
+  
+   <test name = "exampletest2">
+      <classes>
+         <class name = "com.scs.basicexample.Test2" />
+      </classes>
+   </test>
+</suite>
